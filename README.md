@@ -26,3 +26,7 @@ This project provides a comprehensive analysis of customer purchasing patterns a
 2. Run the **Jupyter Notebook** to view the statistical distributions and data correlations.
 3. Reference the **PDF Report** for a high-level summary of the business insights.
 
+<img width="1024" height="549" alt="Screenshot 2026-05-13 173809" src="https://github.com/user-attachments/assets/82b3beef-e094-4f06-a78d-c9dd48aec62c" />
+
+
+<img width="1009" height="547" alt="Screenshot 2026-05-13 173903" src="https://github.com/user-attachments/assets/cd42de23-95a0-457c-9ad0-fa6ec82e713d" />

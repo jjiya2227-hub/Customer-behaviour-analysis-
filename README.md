@@ -25,4 +25,4 @@ This project provides a comprehensive analysis of customer purchasing patterns a
 1. Open the **SQL** script to review the database schema and query logic.
 2. Run the **Jupyter Notebook** to view the statistical distributions and data correlations.
 3. Reference the **PDF Report** for a high-level summary of the business insights.
-4.
+
